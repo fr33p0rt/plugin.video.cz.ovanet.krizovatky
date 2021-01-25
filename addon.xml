@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.cz.ovanet.krizovatky"
-version="0.1.0"
+version="0.1.1"
 name="krizovatky.ovanet.cz"
 provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
 <requires>
@@ -23,6 +23,6 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     <fanart>fanart.jpg</fanart>
   </assets>
   <email>fr33p0rt@protonmail.com</email>
-  <news>First working version</news>
+  <news>Addon icon</news>
 </extension>
 </addon>

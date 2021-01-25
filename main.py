@@ -61,7 +61,7 @@ def play_video(stream_id):
         xbmcgui.Dialog().ok('Chyba', 'Stream nenalezen')
 
 
-_addon_version_ = '0.1.0'
+_addon_version_ = '0.1.1'
 if __name__ == '__main__':
     _addon_url_ = sys.argv[0]
     _addon_id_ = _addon_url_.replace('plugin://', '').replace('/', '')

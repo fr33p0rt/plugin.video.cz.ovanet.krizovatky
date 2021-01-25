@@ -14,6 +14,7 @@
 ![XRP: rwu4XmSLDULFp5FshrtRi8r5gNCfPMwa25](resources/donate/XRP_QR.png)
 
 ## Supported and tested Kodi versions
+- 18.8 (tested)
 - 18.9 (tested)
 
 ## Third party software and other assets
@@ -22,4 +23,6 @@
 - N/A
 
 ### icon.png
-- N/A
+Own work with reused fonts
+- Open Sans (text)
+- Droid Sans (steering wheel)
